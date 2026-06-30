@@ -1,0 +1,80 @@
+# Standard host addresses
+127.0.0.1  localhost
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+# This host address
+127.0.1.1  desktop
+# Reddit block
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+::1       reddit.com
+::1       www.reddit.com
+# X block
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+::1       x.com
+::1       www.x.com
+::1       twitter.com
+::1       www.twitter.com
+# --- OPENAI / CHATGPT ---
+127.0.0.1 openai.com
+::1       openai.com
+127.0.0.1 chatgpt.com
+::1       chatgpt.com
+127.0.0.1 api.openai.com
+::1       api.openai.com
+127.0.0.1 oaistatic.com
+::1       oaistatic.com
+127.0.0.1 oaiusercontent.com
+::1       oaiusercontent.com
+
+# --- ANTHROPIC / CLAUDE ---
+127.0.0.1 anthropic.com
+::1       anthropic.com
+127.0.0.1 claude.ai
+::1       claude.ai
+
+# --- GOOGLE GEMINI ---
+127.0.0.1 gemini.google.com
+::1       gemini.google.com
+127.0.0.1 generativelanguage.googleapis.com
+::1       generativelanguage.googleapis.com
+127.0.0.1 aistudio.google.com
+::1       aistudio.google.com
+
+# --- MICROSOFT COPIALOT ---
+127.0.0.1 copilot.microsoft.com
+::1       copilot.microsoft.com
+127.0.0.1 copilot.com
+::1       copilot.com
+
+# --- PERPLEXITY ---
+127.0.0.1 perplexity.ai
+::1       perplexity.ai
+
+# --- xAI / GROK ---
+127.0.0.1 x.ai
+::1       x.ai
+127.0.0.1 grok.com
+::1       grok.com
+
+# --- MISTRAL AI ---
+127.0.0.1 mistral.ai
+::1       mistral.ai
+
+# --- AI CODING ASSISTANTS ---
+127.0.0.1 cursor.com
+::1       cursor.com
+127.0.0.1 v0.dev
+::1       v0.dev
+
+# --- IMAGE/VIDEO GENERATION ---
+127.0.0.1 midjourney.com
+::1       midjourney.com
+127.0.0.1 runml.com
+::1       runml.com
+127.0.0.1 runwayml.com
+::1       runwayml.com
