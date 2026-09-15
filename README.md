@@ -12,3 +12,6 @@ This repo contains several .config files and setups that I've used over the year
 
 ## Nocturne
 ![Nocturne Screenshot](Nocturne/preview.png)
+
+## GitHub-Dark
+![GitHub-Dark Screenshot](GitHub-Dark/preview.png)
